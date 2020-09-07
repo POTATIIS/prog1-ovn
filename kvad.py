@@ -1,4 +1,4 @@
-svar = input ('skriv ett heltal: ')
+svar = input ('skriv ett tal: ')
 x = float(svar)
 y = x * x
 print ('talet i kvadrat är', y)
